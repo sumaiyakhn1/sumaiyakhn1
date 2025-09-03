@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 Currently working on: Noteshala – a digital library for BCA and MCA notes.<br><br>🤝 Looking to collaborate on: Innovative projects.<br><br>🌱 Currently learning: Advanced JavaScript libraries.<br><br>💬 Ask me about: Noteshala, web development, and my KBC game project.<br><br>⚡ Fun fact: I love merging creativity with functionality.
+🌐 Currently working as an engineer trainee at: Okie Dokie <br><br>🤝 Looking to collaborate on: Innovative projects.<br><br>🌱 Currently learning: Advanced JavaScript libraries.<br><br>💬 Ask me about: Noteshala, web development, and my KBC game project.<br><br>⚡ Fun fact: I love merging creativity with functionality.
 
 
 ## 🌐 Socials:

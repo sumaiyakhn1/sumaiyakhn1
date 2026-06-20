@@ -1,6 +1,5 @@
 # 💫 About Me:
-🌐 Currently working as an Implementation Engineer at: Okie Dokie <br><br>🤝 Looking to collaborate on: Innovative projects.<br><br>🌱 Currently learning: Advanced JavaScript libraries.<br><br>💬 Ask me about: Noteshala, web development, and my KBC game project.<br><br>⚡ Fun fact: I love merging creativity with functionality.
-
+🌐Hi, I'm a Full Stack Developer passionate about building modern, scalable, and impactful web applications.<br><br>🤝 Currently working as an Implementation Engineer at Okie Dokie, where I develop and customize ERP solutions, automate workflows, and create efficient digital experiences.<br><br>🌱Building solutions in EdTech, ERP, automation, and business management domains.<br><br>⚡Open to collaborating on web applications, SaaS products, developer tools, and open-source projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sumaiyyaaa.a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sumaiya-khan-27bbb029b/) 
